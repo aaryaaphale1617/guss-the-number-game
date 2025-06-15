@@ -1,0 +1,24 @@
+🎮 Welcome to 'Guess the Number'!
+I'm thinking of a number between 1 and 100.
+Enter your guess: 1
+📉 Too low! Try again.
+Enter your guess: 78
+📈 Too high! Try again.
+Enter your guess: 60
+📈 Too high! Try again.
+Enter your guess: 50
+📈 Too high! Try again.
+Enter your guess: 40
+📈 Too high! Try again.
+Enter your guess: 30
+📈 Too high! Try again.
+Enter your guess: 20
+📈 Too high! Try again.
+Enter your guess: 10
+📈 Too high! Try again.
+Enter your guess: 9
+📈 Too high! Try again.
+Enter your guess: 7
+📉 Too low! Try again.
+Enter your guess: 8
+✅ Congratulations! You guessed the number in 11 attempts.
