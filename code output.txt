@@ -1,0 +1,60 @@
+🎮 Welcome to Tic Tac Toe!
+
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+---------
+
+Player X, enter row (0-2): 0
+Player X, enter column (0-2): 0
+
+X |   |
+---------
+  |   |
+---------
+  |   |
+---------
+
+Player O, enter row (0-2): 0
+Player O, enter column (0-2): 2
+
+X |   | O
+---------
+  |   |
+---------
+  |   |
+---------
+
+Player X, enter row (0-2): 1
+Player X, enter column (0-2): 1
+
+X |   | O
+---------
+  | X |
+---------
+  |   |
+---------
+
+Player O, enter row (0-2): 2
+Player O, enter column (0-2): 0
+
+X |   | O
+---------
+  | X |
+---------
+O |   |
+---------
+
+Player X, enter row (0-2): 2
+Player X, enter column (0-2): 2
+
+X |   | O
+---------
+  | X |
+---------
+O |   | X
+---------
+
+🏆 Player X wins!
